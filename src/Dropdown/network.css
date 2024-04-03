@@ -1,0 +1,76 @@
+.networks-icon {
+    width: 24px;
+    position: relative;
+    border-radius: 7.5px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.ethereum {
+    position: relative;
+    font-weight: 500;
+}
+.networks-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 11px;
+}
+.teenyiconstick-solid {
+    width: 15px;
+    position: relative;
+    height: 15px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.network-parent {
+    align-self: stretch;
+    border-radius: 8px;
+    /* background-color: #1f1f1f; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 8px 12px;
+    gap: 70px;
+}
+.networks-icon1 {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.network-overlay-inner {
+    align-self: stretch;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px 12px;
+}
+.network-overlay {
+    position: absolute;
+    top: 100%;
+    right: 10%;
+    border-radius: 16px;
+    background-color: #1b1b1b;
+    border: 1px solid #353535;
+    box-sizing: border-box;
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    gap: 10px;
+    text-align: left;
+    font-size: 14px;
+    color: #f1f1f1;
+    font-family: 'DM Sans';
+}
+.network-overlay-inner:hover{
+    background-color: #353535;
+}

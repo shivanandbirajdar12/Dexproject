@@ -1,0 +1,626 @@
+[
+    {
+        "80001": {
+            "tokens": [
+                {
+                    "ticker": "MATIC",
+                    "img": "",
+                    "name": "MATIC",
+                    "nativeAddress": "0x0000000000000000000000000000000000001010",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "TokenA",
+                    "img": "",
+                    "name": "TokenA",
+                    "address": "0x97779C0b556EF2F33Cb3e8350E36F978eF0f2C53",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "TokenB",
+                    "img": "",
+                    "name": "TokenB",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "AAVE",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
+                    "name": "Aave",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "agEUR",
+                    "img": "https://cloudflare-ipfs.com/ipfs/QmZ5Z1xA6rkZPvGh8V8Ezv3vZp8gkL89QpgUzxYYaZUTjM/",
+                    "name": "agEur",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "AMP",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0621d647cecbFb64b79E44302c1933cB4f27054d/logo.png",
+                    "name": "Amp",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "BAL",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3/logo.png",
+                    "name": "Balancer",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "BAND",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac/logo.png",
+                    "name": "Band Protocol",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "BNT",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842/logo.png",
+                    "name": "Bancor Network Token",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "COMP",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c/logo.png",
+                    "name": "Compound",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "CRV",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png",
+                    "name": "Curve DAO Token",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "CVC",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x66Dc5A08091d1968e08C16aA5b27BAC8398b02Be/logo.png",
+                    "name": "Civic",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "DAI",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png",
+                    "name": "Dai Stablecoin",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "ENS",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xbD7A5Cf51d22930B8B3Df6d834F9BCEf90EE7c4f/logo.png",
+                    "name": "Ethereum Name Service",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "GNO",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8/logo.png",
+                    "name": "Gnosis Token",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "GRT",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.png",
+                    "name": "The Graph",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "KEEP",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x42f37A1296b2981F7C3cAcEd84c5096b2Eb0C72C/logo.png",
+                    "name": "Keep Network",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "KNC",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x324b28d6565f784d596422B0F2E5aB6e9CFA1Dc7/logo.png",
+                    "name": "Kyber Network Crystal",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "LINK",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png",
+                    "name": "ChainLink Token",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "LOOM",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x66EfB7cC647e0efab02eBA4316a2d2941193F6b3/logo.png",
+                    "name": "Loom Network",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "LRC",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1/logo.png",
+                    "name": "LoopringCoin V2",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "MANA",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4/logo.png",
+                    "name": "Decentraland",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "MATIC",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0000000000000000000000000000000000001010/logo.png",
+                    "name": "Polygon",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "MKR",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x6f7C932e7684666C9fd1d44527765433e01fF61d/logo.png",
+                    "name": "Maker",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "NMR",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0Bf519071b02F22C17E7Ed5F4002ee1911f46729/logo.png",
+                    "name": "Numeraire",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "OXT",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x9880e3dDA13c8e7D4804691A45160102d31F6060/logo.png",
+                    "name": "Orchid",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "REN",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x19782D3Dc4701cEeeDcD90f0993f0A9126ed89d0/logo.png",
+                    "name": "Republic Token",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "REPv2",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x6563c1244820CfBd6Ca8820FBdf0f2847363F733/logo.png",
+                    "name": "Reputation Augur v2",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "SNX",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png",
+                    "name": "Synthetix Network Token",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "STORJ",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xd72357dAcA2cF11A5F155b9FF7880E595A3F5792/logo.png",
+                    "name": "Storj Token",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "sUSD",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xF81b4Bec6Ca8f9fe7bE01CA734F55B2b6e03A7a0/logo.png",
+                    "name": "Synth sUSD",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "UMA",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x3066818837c5e6eD6601bd5a91B0762877A6B731/logo.png",
+                    "name": "UMA Voting Token v1",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "UNI",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.png",
+                    "name": "Uniswap",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "USDC",
+                    "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+                    "name": "USDCoin",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "USDC.e",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png",
+                    "name": "USDCoin (PoS)",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "USDT",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png",
+                    "name": "Tether USD",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "VOXEL",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F/logo.png",
+                    "name": "Voxies",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "WBTC",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png",
+                    "name": "Wrapped BTC",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "WETH",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png",
+                    "name": "Wrapped Ether",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "WMATIC",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+                    "name": "Wrapped Matic",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "XSGD",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xDC3326e71D45186F113a2F448984CA0e8D201995/logo.png",
+                    "name": "XSGD",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "YFI",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xDA537104D6A5edd53c6fBba9A898708E465260b6/logo.png",
+                    "name": "yearn finance",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "ZRX",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5/logo.png",
+                    "name": "0x Protocol Token",
+                    "address": "0xA07566Db17C9608EB019527b1db3245e59dA33e2",
+                    "decimals": 18
+                }
+            ],
+            "RouterAddress": "0x81998918B841D3FE27C244585f6e81446d4A5E71",
+            "FactoryAddress": "0x8170827c89faF53DD75Cb37982Df5844C926183c"
+        }
+    },
+    {
+        "43113": {
+            "tokens": [
+                {
+                    "ticker": "WAVAX",
+                    "img": "",
+                    "name": "",
+                    "nativeAddress": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "TokenA",
+                    "img": "",
+                    "name": "",
+                    "address": "0x0834557b3787A769c7dCda37581241D4C87AfF1c",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "TokenB",
+                    "img": "",
+                    "name": "",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "1INCH",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xd501281565bf7789224523144Fe5D98e8B28f267/logo.png",
+                    "name": "1inch",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "AAVE",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
+                    "name": "Aave",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "agEUR",
+                    "img": "https://cloudflare-ipfs.com/ipfs/QmZ5Z1xA6rkZPvGh8V8Ezv3vZp8gkL89QpgUzxYYaZUTjM/",
+                    "name": "agEur",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "ALPHA",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png",
+                    "name": "Alpha Venture DAO",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "ANKR",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE/logo.png",
+                    "name": "Ankr",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "AXL",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x44c784266cf024a60e8acF2427b9857Ace194C5d/logo.png",
+                    "name": "Axelar",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "BAT",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588/logo.png",
+                    "name": "Basic Attention Token",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "BUSD",
+                    "img": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766",
+                    "name": "Binance USD",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "COMP",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437/logo.png",
+                    "name": "Compound",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "CTSI",
+                    "img": "https://assets.coingecko.com/coins/images/11038/large/cartesi.png?1592288021",
+                    "name": "Cartesi",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "DAI.e",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
+                    "name": "DAI.e Token",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "DYP",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png",
+                    "name": "DeFi Yield Protocol",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "EURC",
+                    "img": "https://cloudflare-ipfs.com/ipfs/QmSyyMD1CUc17Rj2Cn4vV9wSLuHsWDLN2zDBaGozC5rdaF/",
+                    "name": "Euro Coin",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "FRAX",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png",
+                    "name": "Frax",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "FXS",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x214DB107654fF987AD859F34125307783fC8e387/logo.png",
+                    "name": "Frax Share",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "GMX",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png",
+                    "name": "GMX",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "GRT",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo.png",
+                    "name": "The Graph",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "LINK",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x5947BB275c521040051D82396192181b413227A3/logo.png",
+                    "name": "ChainLink Token",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "MIM",
+                    "img": "https://cloudflare-ipfs.com/ipfs/QmaNmAVohHYtCFn8H9Lk393KDyj1rhWLUamGggFXM2eGLT/",
+                    "name": "Magic Internet Money",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "MKR",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x88128fd4b259552A9A1D457f435a6527AAb72d42/logo.png",
+                    "name": "Maker",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                },
+                {
+                    "ticker": "MULTI",
+                    "img": "https://assets.coingecko.com/coins/images/22087/large/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
+                    "name": "Multichain",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "RAI",
+                    "img": "https://assets.coingecko.com/coins/images/14004/large/RAI-logo-coin.png?1613592334",
+                    "name": "Rai Reflex Index",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "SNX",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xBeC243C995409E6520D7C41E404da5dEba4b209B/logo.png",
+                    "name": "Synthetix Network Token",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "SOL",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F/logo.png",
+                    "name": "SOL Wormhole ",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "SPELL",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png",
+                    "name": "Spell Token",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "STG",
+                    "img": "https://cloudflare-ipfs.com/ipfs/QmYCe3FShq8cRmJ9njM8eZhoNqkuohMm5hUjd4khBcEB8U/",
+                    "name": "Stargate Finance",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "SUSHI",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png",
+                    "name": "Sushi",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "SYN",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png",
+                    "name": "Synapse",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "UMA",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339/logo.png",
+                    "name": "UMA Voting Token v1",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "UNI.e",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo.png",
+                    "name": "UNI.e Token",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "USDC",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
+                    "name": "USDC Token",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "USDT",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+                    "name": "Tether USD",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "WAVAX",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+                    "name": "Wrapped AVAX",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "WBTC",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
+                    "name": "Wrapped BTC",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "WETH",
+                    "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+                    "name": "Wrapped Ether",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "WOO",
+                    "img": "https://assets.coingecko.com/coins/images/12921/large/w2UiemF__400x400.jpg?1603670367",
+                    "name": "WOO Network",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "YFI",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc/logo.png",
+                    "name": "yearn finance",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+                ,
+                {
+                    "ticker": "ZRX",
+                    "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x596fA47043f99A4e0F122243B841E55375cdE0d2/logo.png",
+                    "name": "0x Protocol Token",
+                    "address": "0x9B1980E236980a8015fa447611243760883a2bBB",
+                    "decimals": 18
+                }
+
+
+
+            ],
+            "RouterAddress": "0xEd502557209a6ADF5F9d67557a6bdF0C44335884",
+            "FactoryAddress": "0x19a0434cA597Bce33342e383b8386598825A0d7D"
+        }
+    }
+]

@@ -1,0 +1,67 @@
+.h-volume {
+    position: relative;
+    font-weight: 500;
+}
+.h-volume-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.d-volume-inner {
+    align-self: stretch;
+    border-radius: 8px;
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 8px 12px;
+}
+.teenyiconstick-solid {
+    width: 15px;
+    position: relative;
+    height: 15px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.volume-parent {
+    align-self: stretch;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+}
+.d-volume-child {
+    align-self: stretch;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+}
+.d-volume {
+    position: absolute;
+    bottom: 40px;
+    width: 150px;
+    right: 100px;
+    border-radius: 16px;
+    background-color: #1b1b1b;
+    border: 1px solid #353535;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    gap: 10px;
+    text-align: left;
+    font-size: 14px;
+    color: #f1f1f1;
+    font-family: 'DM Sans';
+    z-index: 999;
+}
+
